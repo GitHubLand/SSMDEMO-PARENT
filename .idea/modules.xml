@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ssmdemo-common/ssmdemo-common.iml" filepath="$PROJECT_DIR$/ssmdemo-common/ssmdemo-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmdemo-manager/ssmdemo-manager.iml" filepath="$PROJECT_DIR$/ssmdemo-manager/ssmdemo-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmdemo-manager/ssmdemo-manager-mapper/ssmdemo-manager-mapper.iml" filepath="$PROJECT_DIR$/ssmdemo-manager/ssmdemo-manager-mapper/ssmdemo-manager-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmdemo-manager/ssmdemo-manager-pojo/ssmdemo-manager-pojo.iml" filepath="$PROJECT_DIR$/ssmdemo-manager/ssmdemo-manager-pojo/ssmdemo-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmdemo-manager/ssmdemo-manager-service/ssmdemo-manager-service.iml" filepath="$PROJECT_DIR$/ssmdemo-manager/ssmdemo-manager-service/ssmdemo-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmdemo-manager/ssmdemo-manager-web/ssmdemo-manager-web.iml" filepath="$PROJECT_DIR$/ssmdemo-manager/ssmdemo-manager-web/ssmdemo-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmdemo-parent.iml" filepath="$PROJECT_DIR$/ssmdemo-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmdemo-portal/ssmdemo-portal.iml" filepath="$PROJECT_DIR$/ssmdemo-portal/ssmdemo-portal.iml" />
+    </modules>
+  </component>
+</project>

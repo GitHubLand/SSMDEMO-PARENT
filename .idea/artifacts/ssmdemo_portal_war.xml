@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssmdemo-portal:war">
+    <output-path>$PROJECT_DIR$/ssmdemo-portal/target</output-path>
+    <root id="archive" name="ssmdemo-portal.war">
+      <element id="artifact" artifact-name="ssmdemo-portal:war exploded" />
+    </root>
+  </artifact>
+</component>
